@@ -1,7 +1,7 @@
-# Projeto1Boostrap
+# Projeto6-Boostrap
 Primeiro projeto em curso com Bootstrap, acessível com GitPages.
 
-Link do site no GitPages: https://cherymoon.github.io/Projeto1-Bootstrap/.
+Link do site no GitPages: https://cherymoon.github.io/Projeto6-Bootstrap/.
 
 Prévia do site: 
 
